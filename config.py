@@ -1,14 +1,14 @@
 config = {
     "multi": [
         {
-            "account": "",
+            "account": "17760016692",
             "country": "+86",  # 区号
-            "password": "",
+            "password": "931746Dht",
             "push": "pushplus",  # together 为 True 时失效, 不写不推送
         },
         # {
-        #     "account": "123",
-        #     "password": "123",
+        #     "account": "17760016692",
+        #     "password": "931746Dht",
         #     "push": "pushplus",
         # },
     ],
